@@ -1,0 +1,1 @@
+This Automation send notification on google chat automatically. It reads Google Sheet daily and when the delivery date mentioned in Google sheet matches today's date it automatically send message to google chat group
